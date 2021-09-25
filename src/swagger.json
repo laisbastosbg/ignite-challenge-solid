@@ -9,5 +9,11 @@
       "email": "lais2bg@gmail.com",
       "url": "https://github.com/laisbastosbg"
     }
-  }
+  },
+  "servers": [
+    {
+      "url": "https://ignite-solid-challenge-swagger.herokuapp.com",
+      "description": "production server"
+    }
+  ]
 }
