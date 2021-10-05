@@ -1,1 +1,1 @@
-[demo](ignite-solid-challenge-swagger.herokuapp.com/api-docs)
+[demo](http://ignite-solid-challenge-swagger.herokuapp.com/api-docs)
